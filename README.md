@@ -13,7 +13,7 @@ Basically, this program helps you choose the right resistor in different situati
 > drop down the voltage by connecting it with a resistor in series. Here
 > is the tool to help you choose the right resistor.
 
-You will need Visual Studio and .NET Framework 4 to work on this project
+You will need Visual Studio and .NET Framework 4 or above to run or work on this project
 
 ----------
 ## **Website** ##
