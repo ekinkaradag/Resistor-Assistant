@@ -16,12 +16,7 @@ Basically, this program helps you choose the right resistor in different situati
 You will need Visual Studio and .NET Framework 4 or above to run or work on this project
 
 ----------
-## **Website** ##
-https://ekinkaradag.com/
-
-----------
-
 **License**
--------
+----------
 
 **License:** GPLv3.  See LICENSE for details.
